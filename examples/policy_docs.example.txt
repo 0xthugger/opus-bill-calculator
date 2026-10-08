@@ -1,0 +1,3 @@
+EXAMPLE ONLY. Replace this file with your real stable text (system prompt, policies, product docs).
+Anything in here that stays identical between calls is a good candidate for prompt caching.
+For caching to work on Opus 5.5 the stable part needs at least 512 tokens, so paste something long.

@@ -1,0 +1,8 @@
+01_cover.png: Title card "Cut your Opus 5.5 bill by 6x" with four lever chips and two bars comparing $4,200 and $649 per month.
+02_where_money_goes.png: Stacked bar of a $4,200 bill: $2,400 repeated prefix, $200 new text, $1,600 output.
+03_cache_lever.png: Three price cards (normal input $4, cache write $5, cache read $0.20) and the per call prefix cost formula, $0.024 down to $0.00408.
+04_price_ladder.png: Table of Opus 5.5, Sonnet 5.5 and Haiku 5.5 prices for input, output, cache read and batch.
+05_gate.png: Diagram of a request passing a gate, 60 percent going to Haiku 5.5 and 40 percent to Opus 5.5.
+06_waterfall.png: Bars of the monthly cost after each lever: $4,200, $2,208, $1,877, $1,537, $649.
+07_shadow_mode.png: Diagram: a real request goes to Opus (user sees it) and Haiku (hidden), a judge compares them, 95 percent or more means go.
+08_closing_card.png: Four step Monday checklist and the $4,200 to $649 result.
